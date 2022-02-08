@@ -4,4 +4,3 @@ Here's an image of my dog...
 
 ![Stormy](https://github.com/GermonprezTestOrg/.github/blob/main/profile/Stormy.jpg)
 
-Move along.
