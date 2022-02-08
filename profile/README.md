@@ -2,6 +2,6 @@ NICE!! This is the org README
 
 Here's an image of my dog...
 
-![Stormy](/Stormy.jpg)
+![Stormy](https://github.com/GermonprezTestOrg/.github/blob/main/profile/Stormy.jpg)
 
 Move along.
